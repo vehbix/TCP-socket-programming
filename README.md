@@ -4,3 +4,5 @@ This program was written for Asst. Prof. Dr. Hasan Serdar's Computer Networks co
 
 TCP socket programming  chat application with GUI.
 
+
+ref:https://www.youtube.com/@BilgisayarHane
